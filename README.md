@@ -33,5 +33,7 @@ The final section addresses:
 - [ChemCrow](https://www.insilicochemistry.io/tutorials/foundations/gpt-4-for-chemistry)
 - [ChemCrow Practical Notebook - OpenTox Summer School 2023](https://colab.research.google.com/drive/1HcQ9iKm_71h04MiBG3gs_1br7nCHR7xd?usp=sharing)
 
+- [Hugging Face - ChemProt LLM](https://huggingface.co/asmaa-ali/llama-2-7b-AsmaaChemProt)
+
 - [OpenTox Summer School 2023 Resources](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/tree/main?tab=readme-ov-file)
 
