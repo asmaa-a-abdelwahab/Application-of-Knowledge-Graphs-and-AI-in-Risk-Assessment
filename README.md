@@ -14,7 +14,7 @@ The final section addresses:
 - Regulatory considerations (e.g., EU AI Act)
 - The importance of a quality and compliance framework for AI and KGs in risk assessment.
 
-##**Presentation**: [URL](https://docs.google.com/presentation/d/1ud-SX-9zXWBgOs0goL3Oi9FB8la7hLYjkfSgBE4t1X8/)
+## Presentation: [URL](https://docs.google.com/presentation/d/1ud-SX-9zXWBgOs0goL3Oi9FB8la7hLYjkfSgBE4t1X8/)
 
 ## Resources (Examples & Practicals)
 
