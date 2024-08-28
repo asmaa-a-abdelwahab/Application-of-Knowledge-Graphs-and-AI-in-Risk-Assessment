@@ -20,13 +20,18 @@ The final section addresses:
 
 - [Hetionet](https://het.io)
 
+
 - [UniProt RDF Schema Ontology](https://purl.uniprot.org/html/index-en.html#)
 - [UniProt RDF Schema Ontology Viewer](https://purl.uniprot.org/html/webvowl/index.html#)
 - [UniProt SPARQL Endpoint](https://sparql.uniprot.org/sparql)
 
+
 - [Access UTOX](https://www.yeschat.ai/gpts-9t55QixGaCA-Universal-Toxicologist-UTOX-)
 - [Access UTOX through charGPT](https://chatgpt.com/g/g-B4bT16NoT-universal-toxicologist-utox/)
 
+
 - [ChemCrow](https://www.insilicochemistry.io/tutorials/foundations/gpt-4-for-chemistry)
-- [ChemCrow Practical Notebook - OpenTox Summer School 2023](https://www.insilicochemistry.io/tutorials/foundations/gpt-4-for-chemistry)
+- [ChemCrow Practical Notebook - OpenTox Summer School 2023](https://colab.research.google.com/drive/1HcQ9iKm_71h04MiBG3gs_1br7nCHR7xd?usp=sharing)
+
+- [OpenTox Summer School 2023 Resources](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/tree/main?tab=readme-ov-file)
 
