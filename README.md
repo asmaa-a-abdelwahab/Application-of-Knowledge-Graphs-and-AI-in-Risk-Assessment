@@ -37,3 +37,11 @@ The final section addresses:
 
 - [OpenTox Summer School 2023 Resources](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/tree/main?tab=readme-ov-file)
 
+
+
+## Practical Exercise - Hugging Face
+[Hugging_Face_Finetuned_Model_AsmaaChemProt](https://colab.research.google.com/github/asmaa-a-abdelwahab/Application-of-Knowledge-Graphs-and-AI-in-Risk-Assessment/blob/main/Hugging_Face_Finetuned_Model_AsmaaChemProt.ipynb)
+
+
+
+
