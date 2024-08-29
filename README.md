@@ -1,6 +1,6 @@
 # OpenTox 2024 Summer School
 
-## Application of Knowledge Graphs (KGs) and AI in Risk Assessment - Practical Session
+## Application of Knowledge Graphs (KGs) and AI in Risk Assessment
 
 In this presentation, I explore the application of Knowledge Graphs (KGs) and Artificial Intelligence (AI) in safety risk assessment. The content covers how KGs enable the integration of diverse data sources, ensure accessibility and interoperability, and enhance real-time risk assessment and monitoring.
 
