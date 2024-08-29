@@ -27,7 +27,7 @@ The final section addresses:
 
 
 - [Access UTOX](https://www.yeschat.ai/gpts-9t55QixGaCA-Universal-Toxicologist-UTOX-)
-- [Access UTOX through charGPT](https://chatgpt.com/g/g-B4bT16NoT-universal-toxicologist-utox/)
+- [Access UTOX through chatGPT](https://chatgpt.com/g/g-B4bT16NoT-universal-toxicologist-utox/)
 
 
 - [ChemCrow](https://www.insilicochemistry.io/tutorials/foundations/gpt-4-for-chemistry)
@@ -35,7 +35,7 @@ The final section addresses:
 
 - [Hugging Face - ChemProt LLM](https://huggingface.co/asmaa-ali/llama-2-7b-AsmaaChemProt)
 
-- [OpenTox Summer School 2023 Resources](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/tree/main?tab=readme-ov-file)
+- [OpenTox Summer School 2023 Session Resources](https://github.com/asmaa-a-abdelwahab/OpenTox_Summer_School/tree/main?tab=readme-ov-file)
 
 
 
