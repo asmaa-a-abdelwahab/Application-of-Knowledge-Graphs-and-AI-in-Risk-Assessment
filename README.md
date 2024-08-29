@@ -10,8 +10,6 @@ Additionally, I demonstrate how fine-tuned AI models, such as GPTs, can support 
 - Scaling large-scale risk evaluations
 
 The final section addresses:
-- Benefits and constraints of AI and KGs
-- Regulatory considerations (e.g., EU AI Act)
 - The importance of a quality and compliance framework for AI and KGs in risk assessment.
 
 ## Presentation: [URL](https://docs.google.com/presentation/d/1ud-SX-9zXWBgOs0goL3Oi9FB8la7hLYjkfSgBE4t1X8/)
